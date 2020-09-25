@@ -1,1 +1,1 @@
-DataStax Front-facing content
+Python Text Image Recognition
